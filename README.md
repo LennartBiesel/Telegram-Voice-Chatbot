@@ -1,7 +1,7 @@
 # Telegram-Voice-Chatbot
 A Voice Chatbot inside of Telegram with Python, that can understand voicer messages and responses with voice messages
 
-[![Watch the video](https://img.youtube.com/vi/YYSKlgGhgn0/maxresdefault.jpg)](https://youtu.be/br8uHJGs9m0)
+[![Watch the video](https://img.youtube.com/vi/br8uHJGs9m0/0.jpg)](https://youtu.be/br8uHJGs9m0)
 
 1. Create the Bot in Telegram
 2. Install the requirements
